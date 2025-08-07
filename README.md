@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/daniiferc/daniiferc/blob/main/CapaDani.png?raw=true" width="100%" alt="banner" colocar aqui o link da foto de capa />
+  <img src="" colocar aqui o link da foto de capa />
 </p>
 
 
@@ -13,7 +13,7 @@ ___
 
 ## Minhas contribuições
 <p align="center">
-<img src="https://raw.githubusercontent.com/daniiferc/daniiferc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pamelasilvei/pamelasilvei/output/snake.svg" alt="Snake animation" />
 </p>
 
 
